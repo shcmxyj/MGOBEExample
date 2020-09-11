@@ -1,0 +1,61 @@
+{
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "org.cocos2d.2019-nCoV",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "encryptJs": true,
+  "excludeScenes": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": true,
+  "mergeStartScene": true,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.2019-nCoV",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "startScene": "58ed1e81-2042-403c-8f42-d9730d5f57a1",
+  "title": "2019-nCoV",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "http://192.168.0.7:8001",
+    "appid": "wx2e4470863e470905",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": "OpenDataContext"
+  },
+  "xxteaKey": "79c2bf6d-9822-48",
+  "zipCompressJs": true,
+  "android": {
+    "packageName": "org.cocos2d.2019-nCoV"
+  },
+  "ios": {
+    "packageName": "org.cocos2d.2019-nCoV"
+  },
+  "mac": {
+    "packageName": "org.cocos2d.2019-nCoV"
+  },
+  "win32": {}
+}
