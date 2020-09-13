@@ -1,0 +1,1 @@
+[{"__type__":"cc.SpriteFrame","content":{"name":"text_Score","texture":"1f52c1c6f","rect":[1988,1948,57,33],"offset":[0,0],"originalSize":[57,33],"capInsets":[0,0,0,0]}},{"__type__":"cc.SpriteFrame","content":{"name":"icon_Score_red","texture":"1f3a0e410","rect":[430,3,280,161],"offset":[0,0],"originalSize":[280,161],"capInsets":[0,0,0,0]}}]

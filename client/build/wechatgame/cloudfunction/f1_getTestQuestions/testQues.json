@@ -1,0 +1,153 @@
+{
+	"ques": [
+		{
+			"id": "1",
+			"que": "样例题目1",
+			"opt": [
+				"答案1",
+				"答案2",
+				"答案3",
+				"答案4"
+			],
+			"ans": [
+				1,
+				2,
+				3,
+				4
+			],
+			"exp": "样例题目1的答案详解XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+		},
+		{
+			"id": "2",
+			"que": "样例题目2",
+			"opt": [
+				"答案1",
+				"答案2",
+				"答案3",
+				"答案4"
+			],
+			"ans": [
+				2
+			],
+			"exp": "样例题目2的答案详解XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+		},
+		{
+			"id": "3",
+			"que": "样例题目3",
+			"opt": [
+				"答案1",
+				"答案2",
+				"答案3",
+				"答案4"
+			],
+			"ans": [
+				1
+			],
+			"exp": "样例题目3的答案详解XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+		},
+		{
+			"id": "4",
+			"que": "样例题目4",
+			"opt": [
+				"答案1",
+				"答案2",
+				"答案3",
+				"答案4"
+			],
+			"ans": [
+				1,
+				2
+			],
+			"exp": "样例题目4的答案详解XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+		},
+		{
+			"id": "5",
+			"que": "样例题目5",
+			"opt": [
+				"答案1",
+				"答案2",
+				"答案3",
+				"答案4"
+			],
+			"ans": [
+				2
+			],
+			"exp": "样例题目5的答案详解XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+		},
+		{
+			"id": "6",
+			"que": "样例题目6",
+			"opt": [
+				"答案1",
+				"答案2",
+				"答案3",
+				"答案4"
+			],
+			"ans": [
+				2
+			],
+			"exp": "样例题目6的答案详解XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+		},
+		{
+			"id": "7",
+			"que": "样例题目7",
+			"opt": [
+				"答案1",
+				"答案2",
+				"答案3",
+				"答案4"
+			],
+			"ans": [
+				1
+			],
+			"exp": "样例题目7的答案详解XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+		},
+		{
+			"id": "8",
+			"que": "样例题目8",
+			"opt": [
+				"答案1",
+				"答案2",
+				"答案3",
+				"答案4"
+			],
+			"ans": [
+				1,
+				2,
+				3
+			],
+			"exp": "样例题目8的答案详解XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+		},
+		{
+			"id": "9",
+			"que": "样例题目9",
+			"opt": [
+				"答案1",
+				"答案2",
+				"答案3",
+				"答案4"
+			],
+			"ans": [
+				2
+			],
+			"exp": "样例题目9的答案详解XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+		},
+		{
+			"id": "10",
+			"que": "样例题目10",
+			"opt": [
+				"答案1",
+				"答案2",
+				"答案3",
+				"答案4"
+			],
+			"ans": [
+				1,
+				2,
+				3,
+				4
+			],
+			"exp": "样例题目10的答案详解XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+		}
+	]
+}
